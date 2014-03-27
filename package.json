@@ -1,0 +1,30 @@
+{
+  "name": "ODataQueryJS",
+  "version": "0.0.0",
+  "description": "Query JS data using odata query syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asilluron/ODataQueryJS.git"
+  },
+  "keywords": [
+    "OData",
+    "query",
+    "data",
+    "javascript",
+    "JS",
+    "syntax"
+  ],
+  "author": "Andrew Silluron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asilluron/ODataQueryJS/issues"
+  },
+  "homepage": "https://github.com/asilluron/ODataQueryJS",
+  "devDependencies": {
+    "karma": "~0.12.1"
+  }
+}
