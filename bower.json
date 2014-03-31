@@ -18,14 +18,9 @@
     "dist/odq.min.js"
   ],
   "dependencies": {
-
   },
   "devDependencies": {
-    "requirejs": "~2.1.9",
-    "json3": "~3.2.5",
-    "es5-shim": "~2.1.0",
-    "lodash": "git://github.com/lodash/lodash.git",
-    "jasmine-matchers": "git://github.com/JamieMason/Jasmine-Matchers"
+    "es5-shim": "~2.1.0"
   },
   "exportsOverride": {
     "jasmine-matchers": {
@@ -35,14 +30,6 @@
       "js": [
         "es5-shim.js",
         "es5-sham.js"
-      ]
-    },
-    "json3": {
-      "js": "lib/json3.js"
-    },
-    "requirejs": {
-      "js": [
-        "require.js"
       ]
     }
   }
