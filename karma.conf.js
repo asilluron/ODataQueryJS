@@ -26,6 +26,9 @@ module.exports = function (config) {
         }, {
             "pattern": "vendor/*.js",
             "included": true
+        }, {
+            "pattern": "odq.js",
+            "included": true
         }],
 
 

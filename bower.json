@@ -14,8 +14,8 @@
     "spec"
   ],
   "main": [
-    "export/odataquery.js",
-    "export/odataquery.min.js"
+    "dist/odq.js",
+    "dist/odq.min.js"
   ],
   "dependencies": {
 

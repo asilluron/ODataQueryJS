@@ -22,6 +22,7 @@
         "expect",
         "it",
         "describeEach",
-        "describe"
+        "describe", 
+        "require"
     ]
 }
